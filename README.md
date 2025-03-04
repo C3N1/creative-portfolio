@@ -34,8 +34,7 @@ A **modern, fully responsive portfolio website** built with **HTML, CSS, and Jav
 ---
 
 ## 📌 Live Demo
-🔗 [Visit the website here](https://yourusername.github.io/creative-portfolio/)  
-🔹 *Replace with the actual GitHub Pages link after deployment.*
+🔗 [Visit the website here](https://c3n1.github.io/creative-portfolio/) 
 
 ---
 
